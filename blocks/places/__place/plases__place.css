@@ -1,0 +1,9 @@
+.plases__place{
+    margin-top: 80px;
+}
+.plases__place:first-child{
+    margin-top: 0;
+}
+.plases__place:last-child{
+    margin-bottom: 92px;
+}

@@ -1,0 +1,10 @@
+.plases__place_title{
+    min-width: 460px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 1.06;
+    color: #FFFFFF;
+    margin: 0;
+}

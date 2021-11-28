@@ -1,0 +1,6 @@
+.plases__place_header{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    margin: auto;
+}
