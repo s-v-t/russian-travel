@@ -1,4 +1,4 @@
-.places__place_website_link{
+.places__website_link{
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -9,6 +9,6 @@
     color: #FFFFFF;
     margin-top: 0;
 }
-.places__place_website_link:hover{
+.places__website_link:hover{
     opacity: 0.8;
 }

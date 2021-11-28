@@ -1,4 +1,4 @@
-.places__place_header{
+.places__header{
     display: flex;
     align-items: flex-end;
     flex-direction: row;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 540px){
-    .places__place_header{
+    .places__header{
         flex-direction: column;
     }
 }
 
 @media screen and (max-width: 540px){
-    .places__place_header{
+    .places__header{
         margin: 0 16px 0 16px;
     }
 }
