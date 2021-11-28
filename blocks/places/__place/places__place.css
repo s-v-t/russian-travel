@@ -1,21 +1,21 @@
-.plases__place{
+.places__place{
     margin-top: 80px;
 }
-.plases__place:first-child{
+.places__place:first-child{
     margin-top: 0;
 }
-.plases__place:last-child{
+.places__place:last-child{
     margin-bottom: 92px;
 }
 
 @media screen and (max-width: 960px){
-    .plases__place{
+    .places__place{
         margin-top: 73px;
     }
 }
 
 @media screen and (max-width: 540px){
-    .plases__place{
+    .places__place{
         margin-top: 50px;
     }
 }

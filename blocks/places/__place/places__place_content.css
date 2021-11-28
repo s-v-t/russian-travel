@@ -1,4 +1,4 @@
-.plases__place_content{
+.places__place_content{
     display: flex;
     flex-direction: row;
     margin: auto;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width: 540px){
-    .plases__place_content{
+    .places__place_content{
         flex-direction: column;
         margin-top: 32px;
     }

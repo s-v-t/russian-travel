@@ -1,4 +1,4 @@
-.plases__place_title{
+.places__place_title{
     width: 460px;
     font-family: Inter;
     font-style: normal;
@@ -11,13 +11,13 @@
 }
 
 @media screen and (max-width: 1120px){
-    .plases__place_title{
+    .places__place_title{
         width: 440px;
     }
 }
 
 @media screen and (max-width: 960px){
-    .plases__place_title{
+    .places__place_title{
         width: 340px;
         font-size: 42px;
         line-height: 1.1;
@@ -25,7 +25,7 @@
 }
 
 @media screen and (max-width: 540px){
-    .plases__place_title{
+    .places__place_title{
         width: 288px;
         font-size: 32px;
         line-height: 1.09;
