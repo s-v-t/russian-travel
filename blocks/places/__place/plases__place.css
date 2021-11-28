@@ -7,3 +7,15 @@
 .plases__place:last-child{
     margin-bottom: 92px;
 }
+
+@media screen and (max-width: 960px){
+    .plases__place{
+        margin-top: 73px;
+    }
+}
+
+@media screen and (max-width: 540px){
+    .plases__place{
+        margin-top: 50px;
+    }
+}

@@ -12,7 +12,7 @@
     margin-bottom: 64px;
 }
 
-@media screen and (max-width: 1120px) {
+@media screen and (max-width: 1120px){
     .lead__subtitle{
         width: 95%;
         font-size: 25px;
@@ -20,14 +20,14 @@
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 640px){
     .lead__subtitle{
         width: 95%;
         font-size: 25px;
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 540px){
     .lead__subtitle{
         width: 288px;
         font-size: 16px;

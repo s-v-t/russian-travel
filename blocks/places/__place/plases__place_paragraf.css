@@ -13,3 +13,27 @@
 .plases__place_paragraf:first-child{
         margin-top: 0;
 }
+
+@media screen and (max-width: 1120px){
+    .plases__place_paragraf{
+        max-width: 456px;
+    }
+}
+
+@media screen and (max-width: 960px){
+    .plases__place_paragraf{
+        max-width: 352px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 540px){
+    .plases__place_paragraf{
+        max-width: 288px;
+        font-size: 16px;
+    }
+
+    .plases__place_paragraf:first-child{
+        margin-top: 32px;
+    }
+}

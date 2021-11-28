@@ -4,3 +4,10 @@
     margin: auto;
     margin-top: 48px;
 }
+
+@media screen and (max-width: 540px){
+    .plases__place_content{
+        flex-direction: column;
+        margin-top: 32px;
+    }
+}

@@ -10,7 +10,7 @@
     line-height: 22px;
     z-index: 2;
 }
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 540px){
     .cover__desctiption{
         max-width: 280px;
         margin-top: 16px;

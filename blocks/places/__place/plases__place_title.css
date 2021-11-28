@@ -1,5 +1,5 @@
 .plases__place_title{
-    min-width: 460px;
+    width: 460px;
     font-family: Inter;
     font-style: normal;
     font-weight: 900;
@@ -7,4 +7,27 @@
     line-height: 1.06;
     color: #FFFFFF;
     margin: 0;
+    align-self: flex-start;
+}
+
+@media screen and (max-width: 1120px){
+    .plases__place_title{
+        width: 440px;
+    }
+}
+
+@media screen and (max-width: 960px){
+    .plases__place_title{
+        width: 340px;
+        font-size: 42px;
+        line-height: 1.1;
+    }
+}
+
+@media screen and (max-width: 540px){
+    .plases__place_title{
+        width: 288px;
+        font-size: 32px;
+        line-height: 1.09;
+    }
 }
