@@ -1,4 +1,4 @@
-.footer__links_link{
+.footer__link{
     text-decoration: none;
     color: white;
     margin-top: 0;
@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 540px){
-    .footer__links_link{
+    .footer__link{
         font-size: 24px;
         line-height: 1;
         margin-top: 32px;
