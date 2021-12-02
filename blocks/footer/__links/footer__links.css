@@ -2,16 +2,19 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    display: grid;
-    grid-template-columns: auto;
+    display: flex;
+    flex-direction: row;
+    /*display: grid;
+    grid-template-columns: repeat(5, min-content);
     gap: 18px;
-    justify-content: start;
+    justify-content: start;*/
 }
 
 @media screen and (max-width: 540px){
     .footer__links{
-        grid-template-columns: 288px;
+        /*grid-template-columns: 288px;
         grid-template-rows: auto;
-        gap: 32px;
+        gap: 32px;*/
+        flex-direction: column;
     }
   }
