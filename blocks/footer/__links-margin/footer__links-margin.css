@@ -1,12 +1,12 @@
-.footer__links_margin{
+.footer__links-margin{
     margin-top: 0;
 }
 
 @media screen and (max-width: 540px){
-    .footer__links_margin{
+    .footer__links-margin{
         margin-top: 18px;
     }
-    .footer__links_margin:first-child{
+    .footer__links-margin:first-child{
         margin-top: 0;
     }
 }
