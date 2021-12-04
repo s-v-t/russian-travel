@@ -17,7 +17,7 @@
     }
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 580px){
     .places__website{
         max-width: 288px;
         margin-left: 0;

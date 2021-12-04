@@ -2,9 +2,9 @@
     margin-top: 0;
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 600px){
     .footer__links-margin{
-        margin-top: 18px;
+        margin-top: 32px;
     }
     .footer__links-margin:first-child{
         margin-top: 0;

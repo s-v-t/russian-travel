@@ -1,6 +1,6 @@
 .places__paragraf{
     margin: 0;
-    max-width: 484px;
+    max-width: 100%;
     font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -14,22 +14,14 @@
         margin-top: 0;
 }
 
-@media screen and (max-width: 1120px){
-    .places__paragraf{
-        max-width: 456px;
-    }
-}
-
 @media screen and (max-width: 960px){
     .places__paragraf{
-        max-width: 352px;
         font-size: 16px;
     }
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 580px){
     .places__paragraf{
-        max-width: 288px;
         font-size: 16px;
     }
 

@@ -5,13 +5,13 @@
     margin: auto;
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 580px){
     .places__header{
         flex-direction: column;
     }
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 580px){
     .places__header{
         margin: 0 16px 0 16px;
     }

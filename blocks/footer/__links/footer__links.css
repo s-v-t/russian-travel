@@ -10,7 +10,7 @@
     justify-content: start;*/
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 600px){
     .footer__links{
         /*grid-template-columns: 288px;
         grid-template-rows: auto;
