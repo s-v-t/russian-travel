@@ -4,6 +4,12 @@
     max-width: 984px;
 }
 
+@media screen and (max-width: 1100px){
+    .lead__figure{
+        max-width: 928px;
+    }
+}
+
 @media screen and (max-width: 1000px){
     .lead__figure{
         max-width: 100%;
