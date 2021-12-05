@@ -21,10 +21,6 @@
 }
 
 @media screen and (max-width: 580px){
-    .places__paragraf{
-        font-size: 16px;
-    }
-
     .places__paragraf:first-child{
         margin-top: 32px;
     }
